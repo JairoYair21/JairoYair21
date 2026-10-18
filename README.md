@@ -45,6 +45,8 @@ Soy estudiante de Ingenería de Sistemas e Informática . Me interesa cualquier 
 
 
 <div align="center">
+  
+![GitHub Stats](https://ghstats.dev/api/card?username=JairoYair21)
 
 **Gracias por visitar mi perfil ✨**
 
