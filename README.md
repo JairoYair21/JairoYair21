@@ -46,8 +46,8 @@ Soy estudiante de Ingenería de Sistemas e Informática . Me interesa cualquier 
 
 <div align="center">
   
-https://ghstats.dev/api/langs?username=JairoYair21&theme=palenight&layout=vertical_list
-
+  ![Top Languages](https://ghstats.dev/api/langs?username=JairoYair21&theme=palenight&layout=vertical_list)
+  <img src="https://ghstats.dev/api/langs?username=JairoYair21&theme=palenight&layout=vertical_list" alt="Top Languages" />
 **Gracias por visitar mi perfil ✨**
 
 Cada proyecto es una oportunidad para aprender algo nuevo.
